@@ -1,6 +1,6 @@
 # Classic Models Data Analysis Project
 
-![ERD Diagram](https://example.com/path-to-your-erd.png) 
+![ERD Diagram](images/classic_models_erd.png)
 
 ## 📊 Project Overview
 This SQL analysis project explores the Classic Models database, a classic car retailer dataset containing 122 customers, 110 products, and 326 orders. The analysis reveals sales trends, customer behavior, and business performance metrics.
