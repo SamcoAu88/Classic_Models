@@ -1,4 +1,4 @@
-# Classic Models Data Analysis Project
+# 🚙🚗Classic Models Data Analysis Project
 
 ![ERD Diagram](images/classic_models_erd.png)
 
